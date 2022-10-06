@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="33.972">
-    <testcase classname="Checking Login Functionality of the Application" name="Checking Login Functionality with Valid Username also" time="23.372">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="28.813">
+    <testcase classname="Checking Login Functionality of the Application" name="Checking Login Functionality with Valid Username also" time="17.847">
         <system-out><![CDATA[Given User is on Login Page.................................................passed
 When user Enter the Username in "Admin" and enter the password "admin123"...passed
 Then should click on Login button...........................................passed
 ]]></system-out>
     </testcase>
-    <testcase classname="Checking Login Functionality of the Application" name="Checking Admin Page Functionality" time="10.28">
+    <testcase classname="Checking Login Functionality of the Application" name="Checking Admin Page Functionality" time="10.61">
         <system-out><![CDATA[Given User click on Admin Page..............................................passed
 Then Then click om Add And Fill user details................................passed
 ]]></system-out>
